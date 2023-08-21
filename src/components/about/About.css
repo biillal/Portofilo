@@ -1,0 +1,30 @@
+#about{
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+.list-group{
+    background: #1A237E;
+    box-shadow: 0 0 4px rgb(216, 190, 190);
+ 
+}
+.btn-list{
+    background-color: transparent;
+    border: none;
+    height: 55px;
+    border-bottom: 1px solid #3f51b5;
+    color: white;
+
+}
+.active{
+    background-color: #283593;
+}
+.abouts{
+    display: flex;
+    background: #283593;
+    padding: 20px;
+    border-radius: 10px;
+}
+.img-about{
+    width: 200px;
+    height: 130px;
+}

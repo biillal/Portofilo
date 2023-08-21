@@ -1,0 +1,20 @@
+.projet-about{
+    background-color: #293593;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.date-priject{
+  background: #3f51b5;
+  padding: 5px;
+  border-radius: 10px;
+}
+.sub-desc{
+    font-size: 15px;
+    margin-left: 29px;
+}
+.desc-project{
+    margin-top: 5px;
+    color: #bcaaa4;
+    margin-left: 29px;
+}

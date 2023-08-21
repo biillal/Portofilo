@@ -1,0 +1,31 @@
+#home{
+   margin-top: 120px;
+   margin-bottom: 150px;
+}
+
+.sub-title{
+    color: #bcaaa4;
+}
+.im{
+    color: white;
+    font-size: 27px;
+}
+.typed{
+    color: #bcaaa4;
+    font-size: 27px;
+}
+.image{
+    width: 300px;
+     height: 300px;
+}
+.description-home{
+    width: 80%;
+    color: #bcaaa4;
+    margin-top: 11px;
+}
+.button-home{
+    display: flex;
+    justify-content: space-between;
+    width: 35%;
+    margin-top: 25px;
+}

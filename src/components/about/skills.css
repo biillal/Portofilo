@@ -1,0 +1,32 @@
+.skills_wrapper{
+    background: #283593;
+    padding: 20px;
+    border-radius: 10px;
+}
+.front-end{
+    width: 100%;
+    margin-left: 10px;
+}
+.skills_ber{
+    width: 100%;
+    position: relative;
+
+    height: 5px;
+    z-index: 999;
+    background: #c1ceff;
+    border-radius: 50px;
+}
+.skills__ber-percentage{
+    background: #7865ff;
+    position: absolute;
+    width: 50%;
+    height: 5px;
+    z-index: 1000;
+    top:0;
+    left: 0;
+    border-radius: 50px;
+
+}
+.back-end{
+    width: 100%;
+}

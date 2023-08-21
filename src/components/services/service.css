@@ -1,0 +1,43 @@
+.title-services{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.title-services h2{
+    color: white;
+}
+.border-services{
+    position: relative;
+    display: flex;
+    border: 1px solid white;
+    background-color: white;
+    width: 13%;
+    height: 3px;
+    border-radius: 10px;
+}
+.sub-border-ser{
+    position: absolute;
+    left: 33%;
+    top: -4px;
+    border: 1px solid #283593;
+    background: #283593;
+    border-radius: 10px;
+    height: 9px;
+    width: 33%;
+}
+.card-services{
+    background-color: #283593;
+    padding: 20px;
+    border-radius: 10px;
+}
+.icon-services i{
+    font-size: 35px;
+    color: white;
+}
+.title-servicess{
+    color: white;
+}
+.desc-serv{
+    color: #bcaaa4;
+}

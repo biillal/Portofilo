@@ -1,0 +1,48 @@
+.title-contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.title-contact h2{
+    color: white;
+}
+.border-contact{
+    position: relative;
+    display: flex;
+    border: 1px solid white;
+    background-color: white;
+    width: 13%;
+    height: 3px;
+    border-radius: 10px;
+}
+.sub-border-cnt{
+    position: absolute;
+    left: 33%;
+    top: -4px;
+    border: 1px solid #283593;
+    background: #283593;
+    border-radius: 10px;
+    height: 9px;
+    width: 33%;
+}
+.container-contact{
+    display: flex;
+}
+.img-contact{
+    width: 100%;
+    border-radius: 10px;
+}
+.header-contact{
+    background: #283593;
+    padding: 20px;
+    margin-right: 20px;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+.btn-contact{
+    width: 100%;
+    background: #1A237E;
+    margin-top: 15px;
+}
